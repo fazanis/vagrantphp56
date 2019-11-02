@@ -8,3 +8,5 @@ domains: tel.local<br>
 
 user-dbuser<br>
 pass - 123<br>
+
+sudo apt-get install php5.6-mbstring
